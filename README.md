@@ -15,4 +15,4 @@ Dan yang terakhir adalah membuat route yang bisa menampilkan detail buku sesuai 
 pada challenge kali ini, kita diharapkan untuk bisa membuat crud serupa dengan modul 5 namun dengan tabel yang berbeda.
 tabel yang digunakan adalah tabel authors yang berisikan atribut name (string), gender (enum, ['male', 'female']), biography (text).
 disini kita harus dapat menampilkan seluruh data author, menampilkan data author sesuai id, membuat data author baru, update data author sesuai id dan juga menghapus data author sesuai id.
-lalu yang terakhir kita diwajibkan untuk melakukan push ke repository bookapp yang telah dibuat sebelumnya.
+lalu yang terakhir kita diwajibkan untuk melakukan push update ke repository bookapp yang telah dibuat sebelumnya.
